@@ -1,31 +1,21 @@
-# Aviation AI Project ✈️
+# Aviation Data Analytics Project ✈️
 
-## 📌 Project Overview
-This project focuses on analyzing flight delay data using Python, Pandas, and Machine Learning concepts.
-Dataset not included due to size.
-
-The goal is to:
-- Clean aviation dataset
-- Perform data analysis
-- Create new features
-- Prepare data for AI/ML models
+📌 Project Overview
+This project analyzes flight delay data using Python and Pandas.
+The main goal is to clean the dataset, explore patterns, and understand the reasons behind flight delays.
 
 ## 🚀 Features
-- Data loading and preprocessing using pandas
+- Data loading and preprocessing using Pandas
 - Handling missing values
 - Datetime conversion
 - Feature engineering (departure delay, flight duration)
-- Exploratory data analysis
+- Exploratory data analysis to find delay patterns
 
-## 🧠 Technologies Used
+## 🧠 Technologies Using
 - Python
 - Pandas
-- Datetime processing
 - Data Cleaning
+- Data Analysis
 
-## 📂 Project Structure
-code/ → Python scripts
-data/ → dataset (ignored via .gitignore)
-README.md → project description
 
 
